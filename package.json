@@ -1,6 +1,6 @@
 {
   "name": "@kurier/addon-transport-layer-context",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An addon to inject the client's IP address and request headers from your transport layer.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

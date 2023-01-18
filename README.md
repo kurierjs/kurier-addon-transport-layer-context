@@ -5,7 +5,7 @@ An addon to inject the client's IP address and request headers from your transpo
 ## Installation
 
 ```bash
-$ npm install kurier-addon-transport-layer-context
+$ npm install @kurier/addon-transport-layer-context
 ```
 
 ## Usage
